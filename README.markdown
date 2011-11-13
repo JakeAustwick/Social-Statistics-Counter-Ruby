@@ -32,6 +32,11 @@ gem install socialcount
 The query simple returns a hash, to make it simple for your to access
 the raw data.
 
+#####Note
+
+Due to the way some of the API's handle uri's, you may get different
+results depending on whether you append a trailing slash or not.
+
 ```ruby
 
 stats = SocialCount.new
