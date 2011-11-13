@@ -1,10 +1,11 @@
+
 ###Social Count
 
-SocialCount is a gem to make it extemely easy for your to find out
+SocialCount is a gem to make it extremely easy for your to find out
 social statistics about any URI. It returns tweets, diggs, google +1's
 and much more (full list given below).
 
-The gem is extremely lightweight comming in at only 17 lines.
+The gem is extremely lightweight coming in at only 17 lines.
 
 ##### Supported Statistics
 Currently supports statistics are below:
