@@ -19,6 +19,13 @@ Currently supports statistics are below:
 * Facebook ( comments box, click count, total count, comment count, like
   count, share count )
 
+###Installation
+
+```
+gem install socialcount
+
+```
+
 ###Usage
 
 The query simple returns a hash, to make it simple for your to access
